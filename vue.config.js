@@ -1,4 +1,4 @@
-module.exports = {
-    publicPath: "/yoome/"
-  };
+// module.exports = {
+//     publicPath: "/yoome/"
+//   };
   
